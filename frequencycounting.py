@@ -11,4 +11,4 @@ for i in range (1,9):
     numstr[i] = CountFreq(i) 
 
 print(numstr)
-#updated
+#updated 1
